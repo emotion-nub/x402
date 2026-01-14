@@ -1,5 +1,13 @@
 # x402
 
+## Overview
+
+x402 is a lightweight framework for building scalable applications
+with minimal configuration. It provides a set of utilities and
+tools to help developers accelerate their development process and
+focus on the core functionality of their applications.
+
+
 x402 is an open standard for internet native payments. It aims to support all networks (both crypto & fiat) and forms of value (stablecoins, tokens, fiat).
 
 ```typescript
